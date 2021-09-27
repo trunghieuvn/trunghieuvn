@@ -5,11 +5,11 @@
 
 Full-Stack | Web | Mobile (Android & Flutter)
 
-[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/DamianRincon)
-[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/DamianRincon/DamianRincon)
-[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
-[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/DamianRincon/DamianRincon)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/damiarc_dev)
+[![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/trunghieuvn)
+[![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/trunghieuvn/trunghieuvn)
+[![Github](https://img.shields.io/github/stars/DamianRincon/DamianRincon?style=social)](https://github.com/trunghieuvn/trunghieuvn)
+[![Github](https://img.shields.io/github/watchers/DamianRincon/DamianRincon?style=social)](https://github.com/trunghieuvn/trunghieuvn)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/trunghieu1204)
 
 
 ## Acerca de mi
