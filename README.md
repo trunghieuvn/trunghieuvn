@@ -21,7 +21,7 @@ Full-Stack | Web | Mobile (Android & Flutter)
 - Unit test, UI testing and integration test
 
 
-## Connectsociales
+## Connect sociales
 
 <a href="https://twitter.com/trunghieu1204">
   <img align="left" alt="trunghieu1204" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
