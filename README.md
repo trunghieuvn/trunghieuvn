@@ -35,10 +35,8 @@ Full-Stack | Web | Mobile (Android & Flutter)
 <a href="https://t.me/trunghieutran">
   <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
 </a>
-<a href="https://www.instagram.com/demianrc/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png"/>
-</a>
-<!-- <a href="https://play.google.com/store/apps/dev?id=5535284175982649291">
+
+<!-- <a href="https://play.google.com/store/apps/dev?id=7564594931524838676">
   <img align="left" alt="GooglePlay" width="22px" src="https://img.icons8.com/color/48/000000/google-play.png"/>
 </a> -->
 <a href="mailto:hieu.trantrung1204@gmail.com">
