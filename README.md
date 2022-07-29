@@ -1,7 +1,7 @@
 
 # Hola, I'm Hieu.
 
-Full-Stack | Web | Mobile (Android & Flutter)
+Full-Stack | iOS | Web | Mobile (Android & Flutter)
 
 [![Github](https://img.shields.io/github/followers/DamianRincon?style=social)](https://github.com/trunghieuvn)
 [![Github](https://img.shields.io/github/last-commit/DamianRincon/DamianRincon)](https://github.com/trunghieuvn/trunghieuvn)
