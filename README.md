@@ -23,8 +23,8 @@ Full-Stack | iOS | Web | Mobile (Android & Flutter)
 
 ## Connect sociales
 
-<a href="https://twitter.com/trunghieu1204">
-  <img align="left" alt="trunghieu1204" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<a href="https://twitter.com/trunghieuvn93">
+  <img align="left" alt="trunghieuvn93" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/tran-trung-hieu/">
   <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
