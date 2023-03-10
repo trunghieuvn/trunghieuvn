@@ -5,7 +5,7 @@ Full-Stack | iOS | Web | Mobile (Android & Flutter)
 
 [![Github](https://img.shields.io/github/followers/trunghieuvn?style=social)](https://github.com/trunghieuvn)
 [![Github](https://img.shields.io/github/last-commit/trunghieuvn/trunghieuvn)](https://github.com/trunghieuvn/trunghieuvn)
-[![Github](https://img.shields.io/github/stars/trunghieuvn/trunghieuvn?style=social)](https://github.com/trunghieuvn/trunghieuvn)
+[![Github](https://img.shields.io/github/stars/trunghieuvn/flutter-clean-architecture?style=social)](https://github.com/trunghieuvn/trunghieuvn)
 [![Github](https://img.shields.io/github/watchers/trunghieuvn/trunghieuvn?style=social)](https://github.com/trunghieuvn/trunghieuvn)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdamiarc_dev)](https://twitter.com/trunghieuvn93)
 
