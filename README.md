@@ -20,6 +20,9 @@ Full-Stack | iOS | Web | Mobile (Android & Flutter)
 
 - Unit test, UI testing and integration test
 
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=trunghieuvn&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
+
 
 ## Connect sociales
 
