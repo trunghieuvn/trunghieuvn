@@ -1,7 +1,9 @@
 
 # Hola, I'm Hieu.
+I'm Software Engineer
 
-Full-Stack | iOS | Web | Mobile (Android & Flutter)
+* Mobile Android and iOS
+* Full-Stack: Web, Server API, Cloud Google Services, Cloud Amazon Services
 
 [![Github](https://img.shields.io/github/followers/trunghieuvn?style=social)](https://github.com/trunghieuvn)
 [![Github](https://img.shields.io/github/last-commit/trunghieuvn/trunghieuvn)](https://github.com/trunghieuvn/trunghieuvn)
